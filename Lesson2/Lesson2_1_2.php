@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>サンプル</title>
+    </head>
+    <body>
+        <ul>
+            <li>こんにちは</li>
+            <li>さようなら</li>
+            <li>またあした</li>
+        </ul>
+    </body>
+</html>
