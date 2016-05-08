@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channnel>
+        <title>Car Shop Yasashi</title>
+        <link>http://homepage3.nifty.com/~mana/</link>
+        <description>From vehicle to truck</description>
+        <language>ja</language>
+        <pubDate>Sat, 4 Sep 2010 08:27:51 +0900</pubDate>
+        <lastBuildDate>Mon, 5 Jan 2009 14:31:27 +0900</lastBuildDate>
+        <item>
+            <title>Vehicle</title>
+            <link>http://homepage3.nifty.com/~mana/yasaphp.html</link>
+            <description>The car of capacity is up to 5 people.
+            The car is for family.</description>
+            <pubDate>Mon, 6 Sep 2010 14:31:27 +0900</pubDate>
+        </item>
+        <item>
+            <title>Truck</title>
+            <link>http://homepage3.nifty.com/~mana/yasashp.html</link>
+            <description>
+                You can use to bring carriage. The car for buihsiness.
+            </description>
+            <pubDate>Sun, 5 Sep 2010 16:54:36 +0900</pubDate>
+        </item>
+        <item>
+            <title>Open Caar</title>
+            <link>http://homepage3.nifty.com/~mana/yasaphp.html</link>
+            <description>When the sunny day, you can open and close skylight.
+            It is the most suitable for leisure.</description>
+            <pubDate>Mon, 6 Sep 2010 00:18:01 +0900</pubDate>
+        </item>
+    </channnel>
+</rss>

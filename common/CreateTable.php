@@ -72,7 +72,7 @@ function OutputTableData($data){
 }
 function CreateFooter(){
     echo '</body>';
-    echo '</html';
+    echo '</html>';
 }
 
 /**

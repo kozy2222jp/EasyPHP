@@ -14,6 +14,8 @@ while($data = fgets($fp, 10000)) {
 xml_parser_free($parser);
 fclose($fp);
 
+CreateFooter();
+
 function startElement($prs, $name, $attribute) {
     echo "{$name}<br/>";
 }
